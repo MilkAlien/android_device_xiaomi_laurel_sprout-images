@@ -3,8 +3,8 @@
 ## Current images
 | Image                                                                                                                                                                                                                                   | Version    |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| vendor.img                                                                                                                                                                                                                              | V11.0.3.0 (EEA) |
-| abl.img<br>bluetooth.img<br>cmnlib.img<br>cmnlib64.img<br>devcfg.img<br>dsp.img<br>hyp.img<br>imagefv.img<br>keymaster.img<br>modem.img<br>qupfw.img<br>rpm.img<br>storsec.img<br>tz.img<br>uefisecapp.img<br>xbl.img<br>xbl_config.img | V11.0.7.0  |
+| vendor.img                                                                                                                                                                                                                              | V11.0.17.0 (GLOBAL) |
+| abl.img<br>bluetooth.img<br>cmnlib.img<br>cmnlib64.img<br>devcfg.img<br>dsp.img<br>hyp.img<br>imagefv.img<br>keymaster.img<br>modem.img<br>qupfw.img<br>rpm.img<br>storsec.img<br>tz.img<br>uefisecapp.img<br>xbl.img<br>xbl_config.img | V11.0.17.0  |
 
 ## How to update vendor image
 1. Extract vendor.img from payload.bin
